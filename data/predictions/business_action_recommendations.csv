@@ -1,0 +1,5 @@
+Prediction_Risk,Business_Action
+High,Review prediction manually and maintain cautious inventory planning
+Moderate,Monitor demand and adjust stock based on recent trends
+Low,Use predicted demand for normal inventory planning
+Zero Demand,Avoid unnecessary stock and investigate whether the product is inactive
