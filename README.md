@@ -17,7 +17,24 @@ The project contains separate analytical pipelines for:
 - Competitor pricing analysis
 - Business insights
 - Inventory recommendations
+## 🚀 Live Demo
 
+### 🌐 Try the Application
+
+The complete E-Commerce Pricing and Demand Analysis dashboard is deployed and available online.
+
+👉 **[Launch Live Application](https://sonychebrolu6-ecommerce-pricing-demand-analytics-appapp-an4yq4.streamlit.app/)**
+
+The live application includes:
+
+- 🏠 Dashboard
+- 📤 Upload Data
+- 📦 Demand Analysis
+- 🔮 Demand Prediction
+- 💰 Pricing Analysis
+- 📉 Price Elasticity
+- 🏪 Competitor Analysis
+- 💡 Business Insights
 ## 🎯 Objectives
 
 The main objectives of this project are:
